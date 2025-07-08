@@ -1,3 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: green;
+}
+h3 {
+    color: darkslateblue;
+}
+
+address p {
+    margin: 0;
+}
+
+.social-media {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.social-media a {
+    margin: 2rem;
+}
 .social-media img {
 width: 32px;
 height: 32px;
